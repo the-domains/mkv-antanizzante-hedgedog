@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mkv-antanizzante-hedgehog]]></title>
         <description><![CDATA[mkv-antanizzante-hedgehog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mkv-antanizzante-hedgedog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 08:59:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 09:00:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mkv-antanizzante-hedgedog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67e6b6bc-2e70-42a2-94ff-8574c9e2e878.png">]]></description>
+            <link>https://thegrid.ai/mkv-antanizzante-hedgedog/b24055be-1875-4a96-a968-7c3b22b3579b/index.html</link>
+            <guid isPermaLink="false">b24055be-1875-4a96-a968-7c3b22b3579b</guid>
+            <pubDate>Thu, 25 Feb 2016 08:59:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Music Blockchain Authoring Tool #hackathon #imogelius]]></title>
             <description><![CDATA[<article><h1>Music Blockchain Authoring Tool #hackathon #imogelius</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/413d4b778ca7a30e661b662d9e971f0e65945c22.png"></article>]]></description>
-            <link>undefinedmusic-blockchain-authoring-tool-hackathon-imogelius/index.html</link>
+            <link>https://thegrid.ai/mkv-antanizzante-hedgedog/music-blockchain-authoring-tool-hackathon-imogelius/index.html</link>
             <guid isPermaLink="false">2ec829ee-0535-4e80-849b-19172466ffbf</guid>
             <pubDate>Thu, 25 Feb 2016 08:59:52 GMT</pubDate>
         </item>
